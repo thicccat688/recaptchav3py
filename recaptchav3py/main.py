@@ -10,7 +10,8 @@ class RecaptchaV3Solver:
         """
         Google Recaptcha V3 solver
 
-        :param anchor_url: Anchor URL for Google Recaptcha V3 captured in the network tab (Use one for higher accuracy)
+        :param anchor_url: Anchor URL for Google Recaptcha V3 captured in the network tab
+        (Use your own for higher accuracy)
         """
 
         self.anchor_url = anchor_url
