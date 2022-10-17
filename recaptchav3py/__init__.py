@@ -1,0 +1,1 @@
+from recaptchav3py.main import RecaptchaV3Solver
